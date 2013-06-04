@@ -1,6 +1,6 @@
 # jquery-get-outer-html
 
-<a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/jquery-getOuterHTML/master/logos/logo-box-madefor.png" align="right" /></a>
+<a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/jquery-get-outer-html/master/logos/logo-box-madefor.png" align="right" /></a>
 
 `jquery-get-outer-html` provides a simple way to get the "outer HTML" for an element, including the element itself, even in browsers that do not support that natively. Unlike other plugins it does not include a setter for outerHTML, so it is best suited to those who do not need the extra code for a setter in their project.
 
